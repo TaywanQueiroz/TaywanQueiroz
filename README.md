@@ -1,4 +1,4 @@
-#  Taywan Queiroz
+# Taywan Queiroz
 
 **`Desenvolvedor Front-end e Java`**
 
@@ -12,6 +12,15 @@ Estou sempre em busca de evolução na área de tecnologia, desenvolvendo projet
 ---
 
 ### 🤖 Linguagens e Tecnologias
+
+<img 
+    align="left" 
+    alt="JAVA"
+    title="JAVA" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
 
 <img 
     align="left" 
@@ -83,7 +92,7 @@ Estou sempre em busca de evolução na área de tecnologia, desenvolvendo projet
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaywanQueiroz&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaywanQueiroz&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=5" 
   />
 
 </p>
