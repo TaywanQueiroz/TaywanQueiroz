@@ -82,18 +82,17 @@ Estou sempre em busca de novos desafios, aprimorando meus conhecimentos por meio
 
 <p>
   <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=TaywanQueiroz&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    align="left"
+    alt="GitHub Stats"
+    height="200"
+    style="padding-right: 10px;"
+    src="./profile/stats.svg"
   />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaywanQueiroz&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=5" 
+  <img 
+    align="left"
+    alt="Tecnologias"
+    height="200"
+    src="./profile/top-langs.svg"
   />
-
 </p>
