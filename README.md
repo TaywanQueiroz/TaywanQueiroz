@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front-end e Java`**
 
-Sou estudante de Ciência da Computação, atualmente no 2º semestre, com foco em desenvolvimento de software e interesse nas áreas de Desenvolvimento Front-end e Back-end com Java.
+Sou estudante de Ciência da Computação, atualmente no 2º semestre, com foco em desenvolvimento de software e interesse nas áreas de desenvolvimento Front-end e Back-end com Java.
 
 Neste GitHub compartilho projetos, estudos e experimentos desenvolvidos ao longo da minha jornada de aprendizado. Aqui você encontrará aplicações criadas com HTML, CSS e JavaScript, além de projetos voltados ao meu aprendizado em Java, SQL e outras tecnologias que fazem parte da minha formação.
 
